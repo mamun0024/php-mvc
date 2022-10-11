@@ -1,0 +1,11 @@
+{
+    "name": "mamun0024/php-mvc",
+    "description": "Custom php mvc framework with docker setup",
+    "authors": [
+        {
+            "name": "Md. Abdull Al Mamun",
+            "email": "mamuncse824@gmail.com"
+        }
+    ],
+    "require": {}
+}
