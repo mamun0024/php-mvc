@@ -1,0 +1,5 @@
+.idea/
+docker/sessions
+docker/data/mysql
+docker/logs/mysql
+vendor/
