@@ -6,7 +6,7 @@ services:
         ports: 
             - "8009:80"
         volumes:
-            - ./:/var/www/html/
+            - ./public:/var/www/html/
         networks:
             - default
             
